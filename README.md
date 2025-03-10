@@ -1,1 +1,1 @@
-Simple tcp portscaner made for rust practice
+Simple tcp portscanner made for rust practice
